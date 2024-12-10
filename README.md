@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Dubey</h1>
-<h3 align="center">A passionate Web and Software Developer focusing on Machine Learning</h3>
+<h3 align="center">A passionate Software Developer focusing on Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uayushdubey&label=Profile%20views&color=0e75b6&style=flat" alt="uayushdubey" /> </p>
 
@@ -51,10 +51,10 @@
 
 <h3 align="left">Coding Practices:</h3>
 <ul>
-  <li>💡 **Focus on Clean Code:** I ensure my code is readable, maintainable, and well-documented.</li>
-  <li>📚 **Continuous Learning:** Always exploring new technologies and improving my skills in Machine Learning and Web Development.</li>
-  <li>🧪 **Test-Driven Development:** Writing test cases to ensure code reliability and minimize bugs.</li>
-  <li>🔄 **Version Control:** Using Git effectively for collaboration and maintaining project history.</li>
+  <li>💡 Focus on Clean Code: I ensure my code is readable, maintainable, and well-documented.</li>
+  <li>📚 Continuous Learning: Always exploring new technologies and improving my skills in Machine Learning and Web Development.</li>
+  <li>🧪 Test-Driven Development: Writing test cases to ensure code reliability and minimize bugs.</li>
+  <li>🔄 Version Control: Using Git effectively for collaboration and maintaining project history.</li>
 </ul>
 
 ---
