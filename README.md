@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayush-dubey-84113623a" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-dubey-84113623a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayush-kumar-dubey-84113623a" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar-dubey-84113623a" height="30" width="40" /></a>
 <a href="https://instagram.com/akd_saksham" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akd_saksham" height="30" width="40" /></a>
 </p>
@@ -51,10 +51,10 @@
 
 <h3 align="left">Coding Practices:</h3>
 <ul>
-  <li>💡 Focus on Clean Code: I ensure my code is readable, maintainable, and well-documented.</li>
-  <li>📚 Continuous Learning: Always exploring new technologies and improving my skills in Machine Learning and Web Development.</li>
-  <li>🧪 Test-Driven Development: Writing test cases to ensure code reliability and minimize bugs.</li>
-  <li>🔄 Version Control: Using Git effectively for collaboration and maintaining project history.</li>
+  <li>💡 **Focus on Clean Code:** I ensure my code is readable, maintainable, and well-documented.</li>
+  <li>📚 **Continuous Learning:** Always exploring new technologies and improving my skills in Machine Learning and Web Development.</li>
+  <li>🧪 **Test-Driven Development:** Writing test cases to ensure code reliability and minimize bugs.</li>
+  <li>🔄 **Version Control:** Using Git effectively for collaboration and maintaining project history.</li>
 </ul>
 
 ---
