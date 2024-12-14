@@ -5,7 +5,7 @@
 
 - 🔭 **I’m currently working on Machine Learning and Software Development projects.**
 
-- 🌱 **Currently sharpening my skills in JavaScript and React.**
+- 🌱 **Currently sharpening my skills in Machine Learning.**
 
 - 👯 **Looking to collaborate on projects related to AI/ML and Web Development.**
 
