@@ -51,10 +51,10 @@
 
 <h3 align="left">Coding Practices:</h3>
 <ul>
-  <li>💡 **Focus on Clean Code:** I ensure my code is readable, maintainable, and well-documented.</li>
-  <li>📚 **Continuous Learning:** Always exploring new technologies and improving my skills in Machine Learning and Web Development.</li>
-  <li>🧪 **Test-Driven Development:** Writing test cases to ensure code reliability and minimize bugs.</li>
-  <li>🔄 **Version Control:** Using Git effectively for collaboration and maintaining project history.</li>
+  <li>💡 Focus on Clean Code: I ensure my code is readable, maintainable, and well-documented.</li>
+  <li>📚 Continuous Learning: Always exploring new technologies and improving my skills in Machine Learning and Web Development.</li>
+  <li>🧪 Test-Driven Development: Writing test cases to ensure code reliability and minimize bugs.</li>
+  <li>🔄 Version Control: Using Git effectively for collaboration and maintaining project history.</li>
 </ul>
 
 ---
