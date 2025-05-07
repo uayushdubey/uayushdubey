@@ -1,77 +1,82 @@
-<h1 align="center">Hi 👋, I'm Ayush Kumar Dubey</h1>
-<h3 align="center">An Aspiring AI Engineer | Building Real-World Solutions with Code</h3>
+<h1 align="center">Hey there! 👋 I'm <span style="color:#4CAF50">Ayush Kumar Dubey</span></h1>
+<h3 align="center">🚀 Turning Ideas into AI-Powered Reality | Passionate Developer | Lifelong Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uayushdubey&label=Profile%20views&color=0e75b6&style=flat" alt="uayushdubey" /> </p>
-
----
-
-🚀 **About Me**
-
-- 🎓 Final-year Computer Science student with a focus on **AI, Big Data, and Computer Graphics**
-- 🤖 Currently building **AI-powered applications** — including **voice agents, crime prediction tools, and pose-controlled games**
-- 🌱 Learning advanced topics in **Machine Learning, Streamlit UI/UX, SNOMED CT integration, and Android Development**
-- 👯 Looking to collaborate on **AI/ML**, **healthtech**, or **interactive game development** projects
-- 🧠 Passionate about applying ML in **law enforcement**, **healthcare**, and **user experience design**
-- 📫 Reach me at: [work.ayushkumardubey@gmail.com](mailto:work.ayushkumardubey@gmail.com)
-- ⚡ Fun fact: _I make machines think, move, and speak._
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uayushdubey&label=Profile%20views&color=0e75b6&style=flat" alt="uayushdubey" />
+</p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 💫 About Me
+
+- 🎓 Final-year CS student specializing in **AI, ML, Big Data & Computer Graphics**
+- 💡 Building real-world apps using **Python, Streamlit, Flask, and Machine Learning**
+- 👯 Actively collaborating on **AI-driven products**, **voice agents**, and **interactive games**
+- 🧠 Exploring: **SNOMED CT integration**, **pose-based gaming**, **EHR systems**, **ML in law enforcement**
+- 📫 Reach me: [work.ayushkumardubey@gmail.com](mailto:work.ayushkumardubey@gmail.com)
+- ⚡ Fun Fact: _I don’t just write code, I build possibilities!_
+
+---
+
+### 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/ayush-kumar-dubey-84113623a" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/akd_saksham" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
 </p>
 
 ---
 
-<h3 align="left">My Tech Principles:</h3>
-<ul>
-  <li>🔍 **User-Centered Development:** Building apps with a focus on real-world impact and usability</li>
-  <li>🧪 **Test & Iterate:** Emphasizing test-driven development and rapid prototyping</li>
-  <li>🔄 **Version Control:** Proficient with Git and GitHub workflows</li>
-  <li>📈 **Performance Aware:** Optimizing ML models and code for efficiency and scalability</li>
-  <li>🎨 **Interactive UI/UX:** Using Streamlit, HTML/CSS, and Figma to enhance user engagement</li>
-</ul>
+### 💡 My Core Practices
+
+- ✨ **Clean Code:** Prioritize clarity, readability & modularity  
+- 🔁 **Version Control:** Git & GitHub for smooth collaboration  
+- 🧪 **TDD:** Write test cases to catch bugs before they catch you  
+- 📊 **Data-driven Decisions:** Always back changes with insights  
+- 💬 **Continuous Learning:** If I’m not building, I’m learning
 
 ---
 
-<h3 align="left">Notable Projects:</h3>
+### 🚀 Featured Projects
 
-- 🎙️ **Interia Voice AI**: Multi-agent voice automation using n8n, Twilio, and ElevenLabs  
-- 🧠 **Predictive Guardians**: Crime forecasting dashboard using ML and Streamlit  
-- ⚔️ **Pose-Controlled Game**: Pygame+OpenCV sword-fighting game using MediaPipe  
-- 📊 **Flight Fare Predictor**: ML model deployed using Flask web app  
-- 🏥 **Oralytics EHR**: EHR system with SNOMED CT medical ontology integration
+| Project | Description |
+|--------|-------------|
+| 🔊 **Interia Voice AI** | Multi-agent voice assistant for interior design firm using **n8n, Twilio, ElevenLabs** |
+| 🧠 **Predictive Guardians** | AI-powered dashboard for **crime analysis and resource allocation** with Streamlit |
+| ⚔️ **Pose-Controlled Game** | Webcam + MediaPipe powered sword-fighting game built with **Pygame & OpenCV** |
+| ✈️ **Flight Fare Predictor** | Flask app to predict flight prices using trained ML models |
+| 🏥 **Oralytics EHR** | EHR system with **SNOMED CT integration** and intelligent search |
 
 ---
 
-<h3 align="left">GitHub Activity:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uayushdubey&show_icons=true&locale=en&layout=compact" alt="uayushdubey" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uayushdubey&" alt="GitHub Streak"/>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uayushdubey&theme=react" alt="Streak Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uayushdubey&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
+
+---
+
+<h3 align="center">Let’s build something awesome together! 🤝</h3>
