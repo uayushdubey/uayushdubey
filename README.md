@@ -9,21 +9,21 @@
 
 ## About Me
 
-I am a final-year Computer Science undergraduate specializing in AI, backend engineering, and intelligent system design. My focus lies in building robust, scalable, and insight-driven systems across domains including NLP, computer vision, cloud infrastructure, and real-time automation.
+Final-year Computer Science undergraduate specializing in AI, ML, and backend engineering.  
+I focus on building efficient, intelligent systems—from prototypes to production.
 
-- Strong foundation in ML, data systems, distributed design, and backend APIs  
-- Experienced in building both prototypes and production-grade architectures  
-- Passionate about clean code, system efficiency, and purpose-driven tech  
-- Contact: [work.ayushkumardubey@gmail.com](mailto:work.ayushkumardubey@gmail.com)
+- Domain expertise: NLP, CV, real-time data systems, healthcare & law enforcement AI  
+- Passionate about clean code, scalable architectures, and measurable impact  
+- Reach me at: [work.ayushkumardubey@gmail.com](mailto:work.ayushkumardubey@gmail.com)
 
 ---
 
-## Engineering Principles
+## Engineering Philosophy
 
-- Modular, maintainable systems following SOLID and DRY principles  
-- High observability: Metrics, logs, and fault-tolerance as first-class concerns  
-- Fast iterations without compromising testability  
-- Deep understanding of AI pipelines, from data preprocessing to model deployment
+- **Clean & Modular Code**: Maintainable, testable, readable  
+- **Versioning & CI/CD**: Git, GitHub Actions, containerized pipelines  
+- **Insights-Driven**: Data, metrics, and performance first  
+- **Continuous Learning**: Tech never sleeps—neither do I
 
 ---
 
@@ -61,7 +61,7 @@ I am a final-year Computer Science undergraduate specializing in AI, backend eng
 ## 🎧 Currently Jamming To
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF99&background=000000&center=true&width=420&lines=Lo-fi+Beats+to+Code+To...;Desi+Hip+Hop+%26+Lo-fi+Drill...;Dark+Synthwave+Terminal+Vibes...;Ayush's+Music+Mode+Activated" alt="Now Playing Terminal Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=00FF99&background=000000&center=true&vCenter=true&width=500&height=50&lines=Honey+Singh+%7C+KR%24NA+%7C+Raftaar+%7C+Seedhe+Maut+on+loop...;Desi+Hip+Hop+Drill+Beats...;Lo-fi+vibes+in+terminal+mode...;Full+focus.+Full+fire.%F0%9F%94%A5" alt="Currently Listening" />
 </div>
 
 ---
@@ -74,7 +74,7 @@ I am a final-year Computer Science undergraduate specializing in AI, backend eng
 
 ---
 
-## Terminal-Style GitHub Calendar
+## Terminal Contribution Graph
 
 <p align="center">
   <img src="https://github.com/uayushdubey/uayushdubey/raw/output/github-contribution-grid-snake.svg" alt="Contribution Graph Terminal Style" />
