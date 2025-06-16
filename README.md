@@ -1,95 +1,100 @@
-<h1 align="center">Hello, I'm <span style="color:#4CAF50">Ayush Kumar Dubey</span></h1>
-<h3 align="center">AI Practitioner | Backend Developer | System Thinker</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Ayush+Kumar+Dubey;AI+Engineer+%7C+Backend+Dev+%7C+System+Thinker" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uayushdubey&label=Profile%20views&color=0e75b6&style=flat" alt="uayushdubey" />
+  <img src="https://komarev.com/ghpvc/?username=uayushdubey&label=Profile%20views&color=7f5af0&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- Final-year Computer Science student with core specialization in **AI/ML, Big Data Analytics, and Computer Graphics**
-- Hands-on experience in developing **AI-powered systems**, **real-time applications**, and **vision-based interfaces**
-- Deep interest in building **scalable backend architectures**, **voice automation systems**, and **interactive data-driven tools**
-- Passionate about contributing to impactful solutions in domains like **healthcare, criminal justice, finance, and education**
-- Contact: [work.ayushkumardubey@gmail.com](mailto:work.ayushkumardubey@gmail.com)
+- 🎓 Final-year Computer Science student specializing in **AI/ML, Big Data & Graphics**
+- 🧠 Builder of **AI-driven systems**, **vision-based apps**, and **scalable backends**
+- 🔍 Focused on automation, system design, and making things that *think & adapt*
+- 📧 [work.ayushkumardubey@gmail.com](mailto:work.ayushkumardubey@gmail.com)
+
+---
+
+### ⚙️ Mindset in Motion
+
+> **Code isn’t just syntax — it’s strategy.**  
+> My work turns logic into leverage.  
+> Think bold, build lean, scale smart.
 
 ---
 
 ### 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/C++-111827?style=flat-square&logo=c%2B%2B&logoColor=blue" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=00C7B7" />
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit&logoColor=FF4B4B" />
+  <img src="https://img.shields.io/badge/TensorFlow-111827?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonaws&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=FFA611" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=blue" />
 </p>
 
 ---
 
-### 💡 Engineering Philosophy
+### 🔬 Engineering Philosophy
 
-- **Modular & Clean Code:** Focus on maintainable, modular architecture following SOLID principles  
-- **Data-First Thinking:** Data is the foundation of every system decision  
-- **System Design Awareness:** Prioritize scalability, fault tolerance, and async processing  
-- **Continuous Integration & Testing:** Integrate tools like GitHub Actions, pytest, Postman  
-- **Rapid Prototyping:** Build quickly with precision using Streamlit, FastAPI, and Jupyter  
-
----
-
-### 🔬 Domain Expertise
-
-| Category | Key Focus Areas |
-|---------|-----------------|
-| **Machine Learning** | Fraud detection, flight price prediction, recidivism modeling, language models |
-| **Computer Vision** | Pose detection, gesture-based interaction, webcam-controlled gaming |
-| **Healthcare Tech** | EHR app architecture, SNOMED CT, intelligent search integration |
-| **Security & Networks** | Simulation of ransomware attacks, cryptography-based understanding |
-| **Real-time Systems** | Peer-to-peer video chat, asynchronous API gateways, system heartbeats |
-| **Backend Engineering** | Dockerized services, resilient API patterns, REST APIs using Flask & FastAPI |
-| **Front-End** | React-based UI, responsive dashboards, interactive visualization using HTML/CSS/JS |
+- 🧩 **Modular Thinking:** Clean, testable code based on SOLID principles  
+- 🧠 **Systemic Focus:** Design for failure, recovery, and scaling  
+- ⏱️ **Speed x Stability:** Rapid prototyping without compromising structure  
+- 📈 **Metrics-Aware:** Data isn't optional — it's baked into every decision  
 
 ---
 
-### 📂 Project Expertise
+### 🧪 Domain Expertise
 
-- Developed **AI-integrated voice agents** for streamlining lead handling and follow-up communication in interior design workflow
-- Built **crime forecasting dashboards** using ML models for pattern detection, profiling, and deployment with Streamlit
-- Created **gesture-controlled system interfaces** with real-time hand-tracking via OpenCV and MediaPipe
-- Designed **ML pipelines** for critical tasks like flight fare prediction, fraud detection, and recidivism risk
-- Built **full-stack healthcare apps** with Kotlin-based front-end and backend powered by standardized clinical terminologies
+| 💡 Category | 🔍 Key Focus Areas |
+|-------------|-------------------|
+| **ML/AI** | Fraud detection, flight fare prediction, LLM workflows |
+| **Vision** | Pose control, real-time webcam gaming, hand gestures |
+| **Healthcare** | SNOMED CT, EHR design, semantic search |
+| **Infra & DevOps** | Dockerized microservices, API gateway resilience |
+| **Security** | Simulation of ransomware & cryptographic practices |
+| **Real-Time** | P2P communication, heartbeat APIs, async systems |
 
 ---
 
-### 📊 GitHub Analytics
+### 📂 Highlight Projects
+
+- 🔊 **Voice AI Agents:** n8n + Vapi + GPT + Twilio = smart lead handling  
+- 🔍 **Crime Predictor:** ML-powered dashboard for pattern & risk analytics  
+- 🧞‍♂️ **Pose-Controlled Game:** Stickman sword fights via webcam + OpenCV  
+- 🧠 **Resume AI:** Conversational resume generator with GPT-4 + Firebase  
+- 🏥 **Smart EHR App:** Kotlin frontend + Firestore backend + SNOMED-CT NLP  
+
+---
+
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uayushdubey&theme=react" alt="Streak Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uayushdubey&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uayushdubey&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ayush-kumar-dubey-84113623a" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/ayush-kumar-dubey-84113623a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
-  <a href="https://instagram.com/akd_saksham" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://instagram.com/akd_saksham" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">Open to AI x Backend collaborations. Let’s build purpose-driven systems.</h3>
+<h3 align="center">🚀 Let’s build the future — cleanly, intelligently, and together.</h3>
