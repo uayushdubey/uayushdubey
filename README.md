@@ -66,19 +66,13 @@ A final-year CS engineer wired with backend precision, AI elegance, and relentle
 
 ## 🧠 Cyber Meme Drop
 
-> *“Built my own Jarvis. He runs on FastAPI, Docker, and 2 Red Bulls.”*
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o6ZsU0olO8nXwwWNO/giphy.gif" width="420" />
-</div>
-
 > *“They said AI would replace developers... I replaced meetings instead.”*
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBrZWRlYTZlZGF4aWx6NmdsM3ltNGFzZnRoZ2Z2cDczdzV5d2U4MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a9xhxAxaqOfQs/giphy.gif" width="420" />
 </div>
 
-> `FastAPI + n8n + Docker + caffeine = JARVIS-as-a-service`
+> `Spotify + Coffee + Headphone + Darkmode = Engineering Shahab`
 
 ---
 
