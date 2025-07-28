@@ -52,9 +52,7 @@ I focus on building efficient, intelligent systems—from prototypes to producti
 | **Voice AI Agent** | Multi-agent voice system with GPT + Twilio + n8n for automated client engagement |
 | **Predictive Guardians** | ML-based law enforcement dashboard with real-time crime pattern analysis |
 | **Pose-Controlled Game** | Interactive webcam-based game using Mediapipe + Pygame |
-| **Resume Intelligence** | AI resume builder powered by GPT and Firebase |
 | **EHR with SNOMED** | Electronic health record system with semantic search and SNOMED CT integration |
-| **Microservices Infra** | Docker-based API gateway with heartbeat monitoring and failure resilience |
 
 ---
 
