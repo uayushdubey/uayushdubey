@@ -76,13 +76,15 @@ A final-year Computer Science student with the firepower of a backend engineer, 
 
 ---
 
-## 💻 Cyber Meme Drop
+## 🧠 Cyber Meme Drop
 
-> “Built my own Jarvis. He runs on FastAPI, Docker, and 2 Red Bulls.”
+> *“They said AI would replace developers. So I built an AI to replace meetings instead.”*
 
 <div align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="400" />
+  <img src="https://i.imgur.com/3CMH6t2.gif" width="420" alt="Funny Dev Meme" />
 </div>
+
+<p align="center"><code>FastAPI + n8n + Docker + caffeine = JARVIS-as-a-service</code></p>
 
 ---
 
