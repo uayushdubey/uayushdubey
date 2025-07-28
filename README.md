@@ -70,16 +70,6 @@ I focus on building efficient, intelligent systems—from prototypes to producti
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uayushdubey&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
-
-## Terminal Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/uayushdubey/uayushdubey/raw/output/github-contribution-grid-snake.svg" alt="Contribution Graph Terminal Style" />
-</p>
-
----
-
 ## Connect With Me
 
 <p>
