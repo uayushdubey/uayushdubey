@@ -81,7 +81,7 @@ A final-year Computer Science student with the firepower of a backend engineer, 
 > *“They said AI would replace developers. So I built an AI to replace meetings instead.”*
 
 <div align="center">
-  <img src="https://i.imgur.com/3CMH6t2.gif" width="420" alt="Funny Dev Meme" />
+  <img src="[https://i.imgur.com/3CMH6t2.gif](https://media.giphy.com/media/3o6ZsU0olO8nXwwWNO/giphy.gif)" width="420" alt="Funny Dev Meme" />
 </div>
 
 <p align="center"><code>FastAPI + n8n + Docker + caffeine = JARVIS-as-a-service</code></p>
