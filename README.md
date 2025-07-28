@@ -1,10 +1,13 @@
-<h1 align="center">Ayush Kumar Dubey</h1>
-<p align="center"><strong>AI Engineer · Automation Hero · Backend Virtuoso</strong></p>
-<p align="center"><code>// Iron Man brain, Dabangg swagger, Dilwale heart.</code></p>
+<h1 align="center" style="font-size: 3rem;">Ayush Kumar Dubey</h1>
+<p align="center"><strong style="font-size: 1.2rem;">AI Systems Engineer · Backend Architect · Automation Virtuoso</strong></p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=500&color=00FF99&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Designing+Intelligent+Systems...;Automating+Workflows+like+a+Stark...;Shipping+APIs+with+Swag+and+Stability..." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=00FF99&background=0d111700&center=true&vCenter=true&width=600&height=50&lines=Designing+Intelligent+Systems.;Owning+the+Backend+like+a+Boss.;Automating+Reality+with+Style.;Zero+Bugs.+Full+Swag." alt="Hero Banner Text"/>
 </div>
+
+<p align="center" style="font-style: italic; font-size: 1.1rem;">
+  Iron Man mind, Dabangg swag, Dilwale soul — building tech that talks, thinks, and delivers.
+</p>
 
 ---
 
