@@ -6,21 +6,21 @@
 </div>
 ---
 
-## ⚡ About Me
+##  About Me
 
 A final-year CS engineer wired with backend precision, AI elegance, and relentless automation.
 
-- 🧠 **ML/AI + Real-time Systems**: NLP, CV, embeddings, vector databases  
-- 🛠 **Automation Guru**: `n8n`, async flows, intelligent pipelines  
-- 🚀 **Backend Architect**: FastAPI, PostgreSQL, Docker, microservices  
-- 🧪 **LLM/Agents Builder**: Transformers, OpenAI APIs, Prompt Chaining  
-- 🏥 **Focus Areas**: Healthcare AI, DevOps Ops AI, Law Enforcement Tech  
-- 🎧 **Code Fuel**: Desi bars, caffeine, and clean logs  
-- 📫 **Reach Me**: [work.ayushkumardubey@gmail.com](mailto:work.ayushkumardubey@gmail.com)
+- 1. **ML/AI + Real-time Systems**: NLP, CV, embeddings, vector databases  
+- 2. **Automation Guru**: `n8n`, async flows, intelligent pipelines  
+- 3. **Backend Architect**: FastAPI, PostgreSQL, Docker, microservices  
+- 4. **LLM/Agents Builder**: Transformers, OpenAI APIs, Prompt Chaining  
+- 5. **Focus Areas**: Healthcare AI, DevOps Ops AI, Law Enforcement Tech  
+- 6. **Code Fuel**: Desi bars, caffeine, and clean logs  
+- 7. **Reach Me**: [work.ayushkumardubey@gmail.com](mailto:work.ayushkumardubey@gmail.com)
 
 ---
 
-## 🔧 Tech Stack: Engineered for Scale
+##  Tech Stack: Engineered for Scale
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=yellow" />
@@ -37,26 +37,26 @@ A final-year CS engineer wired with backend precision, AI elegance, and relentle
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-| 🚨 Project Title          | Description                                                                 |
-|--------------------------|-----------------------------------------------------------------------------|
-| **🗣️ Voice AI Agent**     | Voice-controlled GPT agent + n8n workflows + Twilio automation               |
-| **🛡️ Predictive Guardians** | ML-powered dashboard for law enforcement with crime data analysis           |
-| **🕹️ Pose-Controlled Game**| Real-time game with OpenCV, gesture recognition & feedback loop             |
-| **🏥 EHR with SNOMED CT** | Medical records engine with semantic search over health vocabularies        |
+|    Project Title          | Description                                                                 |
+|---------------------------|-----------------------------------------------------------------------------|
+| **  Voice AI Agent**     | Voice-controlled GPT agent + n8n workflows + Twilio automation               |
+| ** Predictive Guardians** | ML-powered dashboard for law enforcement with crime data analysis           |
+| **  Pose-Controlled Game**| Real-time game with OpenCV, gesture recognition & feedback loop             |
+| **   EHR with SNOMED CT** | Medical records engine with semantic search over health vocabularies        |
 
 ---
 
-## 🎧 Coding Soundtrack
+##  Coding Soundtrack
 
 > Clean code needs clean beats.
 
-- Honey Singh — for boss moves 🧊  
-- AP Dhillon — for late-night flow 🔥  
-- Karan Aujla — for versatility 🎯  
-- Raftaar — for lightning-fast builds ⚡  
-- Seedhe Maut — when it's time to refactor ruthlessly 🧠
+- Honey Singh — for boss moves   
+- AP Dhillon — for late-night flow   
+- Karan Aujla — for versatility  
+- Raftaar — for lightning-fast builds  
+- Seedhe Maut — when it's time to refactor ruthlessly 
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=00FF99&background=0D1117&center=true&vCenter=true&width=500&height=50&lines=Code+in+VSCode...;Beats+in+Airpods...;Focus+in+beast+mode...;Execute+like+a+boss." />
@@ -64,7 +64,7 @@ A final-year CS engineer wired with backend precision, AI elegance, and relentle
 
 ---
 
-## 🧠 Cyber Meme Drop
+##  Cyber Meme Drop
 
 > *“They said AI would replace developers... I replaced meetings instead.”*
 
@@ -76,7 +76,7 @@ A final-year CS engineer wired with backend precision, AI elegance, and relentle
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uayushdubey&layout=compact&theme=tokyonight&hide_border=true" />
@@ -84,7 +84,7 @@ A final-year CS engineer wired with backend precision, AI elegance, and relentle
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-kumar-dubey-84113623a" target="_blank">
