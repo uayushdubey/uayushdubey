@@ -2,101 +2,92 @@
 <p align="center"><strong style="font-size: 1.2rem;">AI Systems Engineer · Backend Architect · Automation Virtuoso</strong></p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00FF99&background=00000000&center=true&vCenter=true&width=600&height=50&lines=Engineer+by+degree%2C+Architect+by+instinct.;AI+that+thinks+like+me.;Backend+built+for+scale+and+style.;Automate.+Dominate.+Repeat." alt="Hero Banner Text"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=FFD700&background=00000000&center=true&vCenter=true&width=600&height=50&lines=Strategic+calm.+Calculated+moves.;Code+that+speaks+louder+than+words.;Precision+over+hype.+Every+time.;Build+silent.+Deploy+deadly." alt="Hero Banner Text"/>
 </div>
----
-
-##  About Me
-
-A final-year CS engineer wired with backend precision, AI elegance, and relentless automation.
-
-- 1. **ML/AI + Real-time Systems**: NLP, CV, embeddings, vector databases  
-- 2. **Automation Guru**: `n8n`, async flows, intelligent pipelines  
-- 3. **Backend Architect**: FastAPI, PostgreSQL, Docker, microservices  
-- 4. **LLM/Agents Builder**: Transformers, OpenAI APIs, Prompt Chaining  
-- 5. **Focus Areas**: Healthcare AI, DevOps Ops AI, Law Enforcement Tech  
-- 6. **Code Fuel**: Desi bars, caffeine, and clean logs  
-- 7. **Reach Me**: [work.ayushkumardubey@gmail.com](mailto:work.ayushkumardubey@gmail.com)
 
 ---
 
-##  Tech Stack: Engineered for Scale
+## The Framework
+
+Final-year CS engineer. Backend precision. AI sophistication. Zero wasted motion.
+
+**Operating Principles:**
+1. **ML/AI Infrastructure**: NLP pipelines, CV systems, vector embeddings, semantic search
+2. **Automation Architecture**: n8n orchestration, async workflows, intelligent agents
+3. **Backend Foundation**: FastAPI microservices, PostgreSQL, Docker, production-grade systems
+4. **LLM Engineering**: Transformers, OpenAI integration, prompt engineering, agent frameworks
+5. **Domain Focus**: Healthcare AI, DevOps intelligence, law enforcement technology
+6. **Execution Style**: Think deep. Code clean. Ship fast.
+7. **Direct Line**: [work.ayushkumardubey@gmail.com](mailto:work.ayushkumardubey@gmail.com)
+
+---
+
+## 🛠️ Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat&logo=fastapi&logoColor=00C7B7" />
-  <img src="https://img.shields.io/badge/n8n-0d1117?style=flat&logo=n8n&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=blue" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=postgresql&logoColor=336791" />
-  <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=flat&logo=tensorflow&logoColor=FF6F00" />
-  <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-0d1117?style=flat&logo=streamlit&logoColor=FF4B4B" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/GitHub Actions-0d1117?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi&logoColor=00C7B7" />
+  <img src="https://img.shields.io/badge/n8n-000000?style=flat&logo=n8n&logoColor=EA4B71" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/TensorFlow-000000?style=flat&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv&logoColor=5C3EE8" />
+  <img src="https://img.shields.io/badge/Streamlit-000000?style=flat&logo=streamlit&logoColor=FF4B4B" />
+  <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/GitHub Actions-000000?style=flat&logo=githubactions&logoColor=2088FF" />
+</p>
+
+## 🎧 Code Soundtrack
+
+The right frequency for focused execution.
+
+**Rotation:**
+- Honey Singh — strategic momentum
+- AP Dhillon — late-night deep work
+- Karan Aujla — adaptive problem-solving
+- Raftaar — rapid iteration cycles
+- Seedhe Maut — ruthless refactoring sessions
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=FFD700&background=000000&center=true&vCenter=true&width=500&height=50&lines=VSCode.+Airpods.+Dark+mode.;One+mindset%3A+Execute.;No+noise.+Pure+focus.;Compose+in+silence." />
+</div>
+
+---
+
+## Philosophy
+
+> *"They spend hours in meetings. I spend minutes automating them."*
+
+<div align="center">
+  <img src="https://media.giphy.com/media/d6GsFvfhUh5gPjNxGr/giphy.gif" width="400" />
+  <p><em>POV: You just asked if I need help debugging</em></p>
+</div>
+
+> `While others talk strategy, I deploy solutions. That's the difference.`
+
+---
+
+## Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uayushdubey&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF" />
 </p>
 
 ---
 
-##  Featured Projects
-
-|    Project Title          | Description                                                                 |
-|---------------------------|-----------------------------------------------------------------------------|
-| **  Voice AI Agent**     | Voice-controlled GPT agent + n8n workflows + Twilio automation               |
-| ** Predictive Guardians** | ML-powered dashboard for law enforcement with crime data analysis           |
-| **  Pose-Controlled Game**| Real-time game with OpenCV, gesture recognition & feedback loop             |
-| **   EHR with SNOMED CT** | Medical records engine with semantic search over health vocabularies        |
-
----
-
-##  Coding Soundtrack
-
-> Clean code needs clean beats.
-
-- Honey Singh — for boss moves   
-- AP Dhillon — for late-night flow   
-- Karan Aujla — for versatility  
-- Raftaar — for lightning-fast builds  
-- Seedhe Maut — when it's time to refactor ruthlessly 
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=00FF99&background=0D1117&center=true&vCenter=true&width=500&height=50&lines=Code+in+VSCode...;Beats+in+Airpods...;Focus+in+beast+mode...;Execute+like+a+boss." />
-</div>
-
----
-
-##  Cyber Meme Drop
-
-> *“They said AI would replace developers... I replaced meetings instead.”*
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBrZWRlYTZlZGF4aWx6NmdsM3ltNGFzZnRoZ2Z2cDczdzV5d2U4MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a9xhxAxaqOfQs/giphy.gif" width="420" />
-</div>
-
-> `Spotify + Coffee + Headphone + Darkmode = Engineering Shahab`
-
----
-
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uayushdubey&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-##  Connect with Me
+## 🔗 Network
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-kumar-dubey-84113623a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="https://instagram.com/akd_saksham" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <strong><code>Vision without execution is hallucination. I build, deploy, and dominate.</code></strong>
+  <strong><code>Strategic calm. Analytical precision. Subtle execution. Main character energy.</code></strong>
 </div>
