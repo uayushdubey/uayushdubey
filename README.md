@@ -31,7 +31,7 @@ Not building for GitHub stars. Building for actual users, workflows, and scale.
 ### `Prompt Version Control System`
 > Git, but for prompts.
 
-Teams iterate on prompts blindly — no diffs, no rollbacks, no accountability. This changes that. A structured system for versioning, comparing, and auditing prompt changes across AI workflows. Built for teams that treat prompts as production artifacts.
+Teams iterate on prompts blindly no diffs, no rollbacks, no accountability. This changes that. A structured system for versioning, comparing, and auditing prompt changes across AI workflows. Built for teams that treat prompts as production artifacts.
 
 `prompt engineering · version control · AI tooling · developer workflow`
 
@@ -40,7 +40,7 @@ Teams iterate on prompts blindly — no diffs, no rollbacks, no accountability. 
 ### `Oralytics`
 > Dental EHR that actually thinks.
 
-Full-stack Electronic Health Record system for dental practices with AI woven into the clinical layer — not bolted on. Handles patient records, appointment flows, treatment planning, and surfacing insights where the dentist is already looking. Built to replace fragmented, expensive legacy software that clinics tolerate.
+Full-stack Electronic Health Record system for dental practices with AI woven into the clinical layer not bolted on. Handles patient records, appointment flows, treatment planning, and surfacing insights where the dentist is already looking. Built to replace fragmented, expensive legacy software that clinics tolerate.
 
 `healthcare · AI integration · EHR · backend systems · real-world deployment`
 
