@@ -96,7 +96,7 @@ Full-stack Electronic Health Record system for dental practices with AI woven in
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=uayushdubey&theme=github-dark&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uayushdubey&bg_color=0d1117&color=8b949e&line=30363d&point=c9d1d9&hide_border=true" />
 
 </div>
 ---
