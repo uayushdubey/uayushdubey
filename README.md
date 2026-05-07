@@ -1,156 +1,161 @@
-You are not just a README generator.
+<div align="center">
 
-You are a developer brand strategist, product thinker, and technical storyteller.
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=C9D1D9&center=true&vCenter=true&width=600&lines=Ayush+Kumar+Dubey;Backend+Systems+%E2%80%A2+AI+Integration+%E2%80%A2+Product+Thinking;I+build+things+that+work+in+production." alt="Typing SVG" />
+</a>
 
-Your task is to create a GitHub Profile README that feels like a **real builder’s presence**, not a template.
+<br/>
 
----
+<img src="https://img.shields.io/badge/focus-real%20systems-0d1117?style=flat-square&labelColor=161b22&color=30363d" />
+<img src="https://img.shields.io/badge/currently-shipping-0d1117?style=flat-square&labelColor=161b22&color=30363d" />
+<img src="https://img.shields.io/badge/based_in-India-0d1117?style=flat-square&labelColor=161b22&color=30363d" />
 
-## 📌 ABOUT ME (IMPORTANT — USE THIS DEEPLY)
-
-Name: Ayush Kumar Dubey
-
-I am:
-- A builder-first developer
-- Focused on real-world systems, not tutorial projects
-- Someone who thinks in products, automation, and scalability
-- Strong in backend systems, AI integration, and workflows
-
-My mindset:
-- Execution > ideas
-- Systems > scripts
-- Shipping > perfection
-- Real-world impact > academic complexity
-
-Tone:
-- Calm confidence (not loud, not cringe)
-- Slightly sharp / intelligent edge (light sarcasm allowed)
-- No motivational fluff
-- No fake “hustle culture” energy
-- Feels like someone who actually builds things
+</div>
 
 ---
 
-## 🎯 OBJECTIVE
+## How I operate
 
-The README should:
-- Instantly communicate: “this guy builds real systems”
-- Feel different from every generic GitHub profile
-- Be clean, minimal, but powerful
-- Balance personality + technical credibility
+Not building for GitHub stars. Building for actual users, workflows, and scale.
 
----
-
-## ⚠️ STRICT RULES (VERY IMPORTANT)
-
-- DO NOT use traditional LLM emoji spam (🚀🔥💻❌)
-- If visuals are used, they must be subtle and aesthetic
-- Avoid cringe, over-dramatic lines, or fake intensity
-- No long paragraphs
-- No generic phrases like:
-  - “passionate developer”
-  - “love coding”
-  - “always learning”
+- Systems before scripts. Infrastructure before features.
+- If it doesn't solve a real problem, it doesn't get built.
+- The abstraction should hide complexity, not create it.
+- Boring tech that works beats clever tech that doesn't.
 
 ---
 
-## 🧠 WHAT THE README MUST DO
+## What I'm shipping
 
-It should *speak who I am* without saying “I am this”.
+### `Prompt Version Control System`
+> Git, but for prompts.
 
-It should feel like:
-- A builder’s operating system
-- A developer who values execution and clarity
-- Someone who solves real problems quietly but effectively
+Teams iterate on prompts blindly — no diffs, no rollbacks, no accountability. This changes that. A structured system for versioning, comparing, and auditing prompt changes across AI workflows. Built for teams that treat prompts as production artifacts.
 
----
-
-## 🧩 STRUCTURE (FOLLOW BUT IMPROVE IF NEEDED)
-
-### 1. Hero Section
-- Clean name + role
-- Animated typing effect (sharp, not cheesy)
-- One-line identity statement (memorable)
+`prompt engineering · version control · AI tooling · developer workflow`
 
 ---
 
-### 2. About (But Not Biography)
-- No resume-style writing
-- Show how I think and operate
+### `Oralytics`
+> Dental EHR that actually thinks.
+
+Full-stack Electronic Health Record system for dental practices with AI woven into the clinical layer — not bolted on. Handles patient records, appointment flows, treatment planning, and surfacing insights where the dentist is already looking. Built to replace fragmented, expensive legacy software that clinics tolerate.
+
+`healthcare · AI integration · EHR · backend systems · real-world deployment`
 
 ---
 
-### 3. What I’m Building
-Include:
-- Prompt Version Control System
-- Oralytics (Dental EHR + AI system)
+## Tech
 
-Write them like products, not college projects
+<div align="center">
 
----
+**Backend & Runtime**
 
-### 4. Tech Stack
-- Use clean icons/logos
-- Group logically (backend, AI, tools, etc.)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
 
----
+**AI & Integration**
 
-### 5. Proof of Work (IMPORTANT)
-- GitHub stats
-- Streak stats
-- Activity signals
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=ffffff)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=375BD2)
+![Anthropic](https://img.shields.io/badge/Anthropic-0d1117?style=flat-square&logo=anthropic&logoColor=ffffff)
 
----
+**Frontend**
 
-### 6. Builder Philosophy (CORE SECTION)
-- 5–7 short, sharp lines
-- No fluff
-- Should sound like principles, not quotes
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
 
----
+**Infrastructure & Tools**
 
-### 7. Featured Work
-- Highlight projects with:
-  - What it does
-  - Why it matters
-  - Real-world angle
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ECF8E)
 
----
-
-### 8. Minimal Personal Touch
-- Optional: coding environment / workflow vibe
-- Keep it subtle
+</div>
 
 ---
 
-### 9. Connect Section
-- Clean and simple
+## Proof of work
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ayushkumardubey&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=6e7681&hide_title=false&rank_icon=github" />
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=ayushkumardubey&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1117&ring=30363d&fire=c9d1d9&currStreakNum=c9d1d9&sideNums=8b949e&currStreakLabel=6e7681&sideLabels=6e7681&dates=6e7681" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkumardubey&bg_color=0d1117&color=6e7681&line=30363d&point=c9d1d9&hide_border=true&area=true&area_color=161b22" />
+
+</div>
 
 ---
 
-## 🎨 DESIGN STYLE
+## Builder principles
 
-- Dark, minimal, high signal
-- Proper spacing
-- No clutter
-- Smooth flow between sections
-- Looks like a product page, not a resume
+```
+Execution compounds. Ideas don't.
+
+The right abstraction saves you ten times. The wrong one costs you twenty.
+
+If it's not automated, it's not done — it's just done for now.
+
+A system that scales wrong is more dangerous than one that doesn't scale.
+
+Ship the 80%. Sharpen it in production.
+
+Clarity in design, precision in architecture, zero in noise.
+
+Real problems are never as clean as the tutorial version. That's the point.
+```
 
 ---
 
-## OUTPUT REQUIREMENTS
+## Work
 
-- Output ONLY README.md
-- Fully formatted
-- Ready to paste into GitHub
-- Use working badges, icons, and visuals
+| Project | What it solves | Stack |
+|---|---|---|
+| **Prompt VCS** | Version control for AI prompts — diffs, rollbacks, team collaboration | Python · PostgreSQL · FastAPI |
+| **Oralytics** | AI-native dental EHR for clinical practices | Next.js · Node.js · OpenAI · MongoDB |
+
+*More in the repos. Less on the profile.*
 
 ---
 
-## FINAL EXPECTATION
+## Environment
 
-When someone lands on this profile, they should feel:
+```yaml
+editor: VS Code
+terminal: Zsh + tmux
+notes: Obsidian (structured, not chaotic)
+approach: think in writing, build in iterations
+```
 
-“This is not a beginner. This is someone who builds, ships, and thinks in systems.”
+---
 
-Make it sharp. Make it clean. Make it real.
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&label=)](https://linkedin.com/in/ayushkumardubey)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&label=)](mailto:ayush@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff&label=)](https://github.com/ayushkumardubey)
+
+</div>
+
+<br/>
+
+<div align="center">
+<sub><code>— if it's worth doing, it's worth systemizing —</code></sub>
+</div>
