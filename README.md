@@ -84,22 +84,21 @@ Full-stack Electronic Health Record system for dental practices with AI woven in
 
 ---
 
-## Proof of work
+## Proof of Work
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ayushkumardubey&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=6e7681&hide_title=false&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=uayushdubey&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=ayushkumardubey&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1117&ring=30363d&fire=c9d1d9&currStreakNum=c9d1d9&sideNums=8b949e&currStreakLabel=6e7681&sideLabels=6e7681&dates=6e7681" />
+<img height="160" src="https://streak-stats.demolab.com?user=uayushdubey&theme=github-dark&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkumardubey&bg_color=0d1117&color=6e7681&line=30363d&point=c9d1d9&hide_border=true&area=true&area_color=161b22" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uayushdubey&theme=github-dark&hide_border=true" />
 
 </div>
-
 ---
 
 ## Builder principles
