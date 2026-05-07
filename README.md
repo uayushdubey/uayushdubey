@@ -84,25 +84,11 @@ Full-stack Electronic Health Record system for dental practices with AI woven in
 
 ---
 
-## Proof of work
+## System Output
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=uayushdubey&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=6e7681&rank_icon=github&count_private=true" />
-
-<img height="160" src="https://streak-stats.demolab.com?user=uayushdubey&theme=github-dark&hide_border=true&background=0d1117&stroke=30363d&ring=6e7681&fire=c9d1d9&currStreakNum=c9d1d9&sideNums=8b949e&currStreakLabel=6e7681&sideLabels=6e7681&dates=6e7681" />
-
-</div>
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uayushdubey&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=uayushdubey&bg_color=0d1117&color=6e7681&line=30363d&point=c9d1d9&hide_border=true&area=true&area_color=161b22" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=C9D1D9&background=0D1117&center=true&vCenter=true&width=600&height=50&lines=Initializing+systems...;Designing+architecture...;Optimizing+workflows...;Automating+repetition...;Deploying+solutions.;Execution+complete." />
 
 </div>
 
