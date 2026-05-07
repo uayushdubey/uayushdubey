@@ -118,7 +118,7 @@ Real problems are never as clean as the tutorial version. That's the point.
 
 | Project | What it solves | Stack |
 |---|---|---|
-| **Prompt VCS** | Version control for AI prompts — diffs, rollbacks, team collaboration | Python · PostgreSQL · FastAPI |
+| **Prompt VCS** | Version control for AI prompts diffs, rollbacks, team collaboration | Python · PostgreSQL · FastAPI |
 | **Oralytics** | AI-native dental EHR for clinical practices | Next.js · Node.js · OpenAI · MongoDB |
 
 *More in the repos. Less on the profile.*
