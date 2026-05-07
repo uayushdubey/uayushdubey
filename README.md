@@ -140,9 +140,9 @@ approach: think in writing, build in iterations
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&label=)](https://linkedin.com/in/ayushkumardubey)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&label=)](mailto:ayush@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff&label=)](https://github.com/ayushkumardubey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&label=)](https://linkedin.com/in/ayush-kumar-dubey-84113623a)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&label=)](mailto:work.ayushkumardubey@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff&label=)](https://github.com/uayushdubey)
 
 </div>
 
